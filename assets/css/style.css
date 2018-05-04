@@ -1,0 +1,33 @@
+body{
+    background: url("../images/spiration-dark.png");
+    color: #fff;
+}
+* {
+	box-sizing: border-box;
+}
+img { 
+    height: 150px;
+    width: 150px;
+}
+
+.panel-body {
+    background: url("../images/light-grey-terrazzo.png");
+    color: black;
+    padding: 20px;
+    border-radius: 25px;
+}
+.jumbotron {
+    margin-top: 25px;
+    background: url("../images/light-grey-terrazzo.png");
+    color: black;
+    padding: 20px;
+    border-radius: 25px;
+}
+.btn {
+    background-color: red;
+    color: white;
+}
+footer {
+    text-align: center;
+    color: rgba(255, 250, 250, 0.596);
+}
